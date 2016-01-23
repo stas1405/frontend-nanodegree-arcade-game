@@ -11,3 +11,5 @@ Zombie character is searching for fresh flesh.
 To control the character we are using arrows keys.
 Androids running on the road, trying to catch our zombie.
 If zombie pick up the food, amount of enemies increases by 1.
+
+To improve functionality it possible to implement life count.
